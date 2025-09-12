@@ -1,2 +1,2 @@
 # Computer-Vision
-This Repository contain the computer vision based codes
+This Repository contains the computer vision-based codes.
